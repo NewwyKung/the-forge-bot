@@ -1,0 +1,16 @@
+[project]
+name = "the-forge-bot"
+version = "1.0.0"
+description = "Bot for Roblox Game The Forge"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "inquirerpy>=0.3.4",
+    "keyboard>=0.13.5",
+    "mss>=10.1.0",
+    "numpy>=2.3.5",
+    "opencv-python>=4.11.0.86",
+    "pillow>=12.0.0",
+    "pyautogui>=0.9.54",
+    "pydirectinput>=1.0.4",
+]
